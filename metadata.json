@@ -1,0 +1,6 @@
+{
+  "name": "Keuangan Umroh Madani Tour Tegal",
+  "description": "Aplikasi Manajemen Keuangan Pemasukan dan Pengeluaran Umroh Madani Tour Tegal",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
